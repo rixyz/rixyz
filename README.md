@@ -1,7 +1,7 @@
 <h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 I'm Rix
-- 🌱 I’m currently learning **Information Communication Technology**
+- 🌱 I’m currently learning **Information Technology**
 
 
 <h3 align="left">Languages and Tools:</h3>
