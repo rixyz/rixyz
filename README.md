@@ -1,6 +1,6 @@
 <h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-My online name is Rix.
+I am Rix.
 - 🌱 I’m currently learning **Information Technology**
 
 ---
