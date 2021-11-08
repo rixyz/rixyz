@@ -1,4 +1,6 @@
-<h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+
+<h3 align="left"> About me:</h3>
 
 I am Rix.
 - 🌱 I’m currently learning **Information Technology**
@@ -13,7 +15,7 @@ I am Rix.
 
 
 <details>
-<summary>GitHub stats</summary>
+<summary><strong>GitHub stats</strong></summary>
   
 [![](https://raw.githubusercontent.com/rixyz/rixyz/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rixyz/rixyz/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
